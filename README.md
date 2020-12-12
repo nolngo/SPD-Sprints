@@ -1,14 +1,19 @@
 # SPD-Sprints
 Submissions for Sprint assignments 1, 2, and 3.
 
-Project Idea: A music shuffler based on category.
+Spring 1 (Project Idea):
+specific audio file shuffler:
+We have music players, streaming services, and shuffling apps; however they do not allow the use to fine tune and selectively choose what to shuffle without making dozens of playlists that you choose yourself. This could created applications for educational and entertainment purposes, as music and podcasts can be used alike.
 
 Sprint 1 (User Journey):
 
-Michelle is a 32 year old florist who has recently started to use her computer to create beautiful signs and posters to help market her business. Her posters are simple, minimal, and eye-catching. She relies heavily on resizable elements to help make her graphic work versatile for all print sizes and applications. Her program of choice is Adobe inDesign. As she starts using this program for the first time, she notices that when she switches windows to reference her web browser, there is severe lag and the dialog boxes even turn grey indicating that they are “(not responding)”. So, when she becomes unhappy with the performance her computer provides, she switches on Diagnostica. With one touch of the “scan button”, the program begins to check her computer for malware and viruses. Once that test comes back negative, Diagnostica proceeds to run the next test, and begins checking that all firmware and software running on the device is up-to-date. The program realizes that her Adobe inDesign is outdated and prompts her with a link to download the newest version. After that is complete, the program continues to run and check the rest of the computer. Hardware is now being monitored and the program now reads the usage values of the CPU, GPU, and RAM. The program reports that after running the updating the program, her computer’s GPU and CPU are both running at normal readings. However, the program will recommend that she upgrades her memory from 4gb to at least 8gb to allow for more multitasking headroom.
+Josephine, a middle school orchestra teacher, might create a playlist called MSorchestra.txt and it would have categories like “allegro”, “romantic”,”baroque”,”mozart”. These categories may be used at the beginning of her class to get her students ready for the type of music that they will be working on that week.
+
+Curtis, an elementary school gym teacher has a whole year of units planned out. He makes a whole playlist of the entire year’s units. The categories are “basketball”, “football”, “jumprope”, “gymnastics”, and more!
+
 
 Sprint 1 (Wireframes):
 
 https://www.figma.com/file/o1AQ8zoBPFGG6GQiI699Io/Subject-Shuffler?node-id=0%3A1
 
-Sprint 2
+Sprint 2 ():
