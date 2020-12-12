@@ -15,5 +15,3 @@ Curtis, an elementary school gym teacher has a whole year of units planned out. 
 Sprint 1 (Wireframes):
 
 https://www.figma.com/file/o1AQ8zoBPFGG6GQiI699Io/Subject-Shuffler?node-id=0%3A1
-
-Sprint 2 ():
